@@ -20,8 +20,8 @@ public class Projeto_9 {
 
         System.out.println(nun2);
         System.out.println(nun4);
-        System.out.println(idade2);
-        System.out.println(idade4);
+        System.out.println("Wrapprs:" + idade2);
+        System.out.println("Casting:" + idade4);
 }
 
 
