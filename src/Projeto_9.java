@@ -12,12 +12,16 @@ public class Projeto_9 {
     int nun4 = (int) nun3;
 
     int idade1 = Integer.valueOf(21);
-    long idade2 = Long.valueOf(idade1);
+    long idade2 = Long.valueOf(idade1);//Variavel Wrapprs
+
+    long idade3 = Long.valueOf(3123);
+    int idade4 = Integer.valueOf((int) idade3);// Wrapprs Usando o casting
 
 
         System.out.println(nun2);
         System.out.println(nun4);
         System.out.println(idade2);
+        System.out.println(idade4);
 }
 
 
