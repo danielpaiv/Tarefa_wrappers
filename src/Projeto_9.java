@@ -18,10 +18,10 @@ public class Projeto_9 {
     int idade4 = Integer.valueOf((int) idade3);// Wrapprs Usando o casting
 
 
-        System.out.println("Primitivo:" + nun2);
-        System.out.println("Casting:" + nun4);
-        System.out.println("Wrapprs:" + idade2);
-        System.out.println("Casting:" + idade4);
+        System.out.println("Primitivo:  " + nun2);
+        System.out.println("Casting:  " + nun4);
+        System.out.println("Wrapprs:  " + idade2);
+        System.out.println("Casting:  " + idade4);
 }
 
 
